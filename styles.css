@@ -1,0 +1,24 @@
+.backgroundColor {
+        background-color: #C0C0C0;
+        color: white;
+    }
+
+p {
+  font-family: Overlock;
+}
+
+.Aboutme {
+  color: white;
+}
+
+.Links {
+  color: red;
+}
+
+h1 {
+  color: navy;
+}
+
+h2 {
+  color: blue;
+}
