@@ -1,24 +1,21 @@
-.backgroundColor {
+body {
         background-color: #C0C0C0;
-        color: white;
     }
-
 p {
-  font-family: Overlock;
+  font-family: 'Overlock', cursive;
+  color: #DC143C;
 }
-
-.Aboutme {
-  color: white;
-}
-
-.Links {
-  color: red;
-}
-
 h1 {
-  color: navy;
+  font-family: 'Overlock', cursive;
+  color: #00008B;
+  text-align: center;
 }
-
 h2 {
-  color: blue;
+  font-family: 'Overlock', cursive;
+  color: #483D8B;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
