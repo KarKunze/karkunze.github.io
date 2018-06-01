@@ -6,4 +6,4 @@
 
 [LinkedIn](https://www.linkedin.com/in/karla-kunze-02935939/)
 
-[My Blog](https://www.blogger.com/profile/09399451966492429169)
+[My Blog](http://karkunze.blogspot.com)
