@@ -1,5 +1,7 @@
 # karkunze.github.io
 
+https://karkunze.github.io/index.html
+
 [GitHub](https://github.com/KarKunze/karkunze.github.io)
 
 [StackOverflow](https://stackoverflow.com/users/9686382/karla?tab=profile)
