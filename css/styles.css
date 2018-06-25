@@ -45,3 +45,8 @@ footer {
 .Projects {
   text-align: center;
 }
+
+.carousel-caption {
+  background-color: #415F75;
+  opacity: 0.8;
+}
