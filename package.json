@@ -17,10 +17,15 @@
   },
   "homepage": "https://github.com/KarKunze/karkunze.github.io#readme",
   "devDependencies": {
+    "bootstrap": "^4.1.1",
     "browser-sync": "^2.24.4",
     "express": "^4.16.3",
     "gulp": "^3.9.1",
-    "gulp-sass": "^4.0.1"
+    "gulp-sass": "^4.0.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
   },
-  "dependencies": {}
+  "dependencies": {
+    "npm": "^6.1.0"
+  }
 }

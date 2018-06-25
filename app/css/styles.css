@@ -1,5 +1,54 @@
 body {
-        background-color: #C0C0C0;
+  background-color: #415F75;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Montserrat", sans-serif;
+  color: #F2FAFF;
+  font-weight: bolder;
+}
+
+.w3-xxlarge {
+  color: #F2FAFF;
+}
+
+.w3-row-padding img {
+  margin-bottom: 12px;
+}
+/* Set the width of the sidebar to 120px */
+.w3-sidebar {
+  width: 120px;
+  background: #394955;
+  color: #FAF8FF;
+}
+
+p {
+  color: #FAF8FF;
+}
+
+}
+/* Add a left margin to the "page content" that matches the width of the sidebar (120px) */
+#main {
+  margin-left: 120px;
+}
+/* Remove margins from "page content" on small screens */
+@media only screen and (max-width: 600px) {
+  #main {
+    margin-left: 0;
+  }
+}
+
+footer {
+  color: #91AFC7;
+};
+
+.Projects {
+  text-align: center;
+}
+
+
+/* body {
+  background-color: #C0C0C0;
     }
 p {
   font-family: 'Overlock', cursive;
@@ -25,4 +74,4 @@ h2 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
+} */
