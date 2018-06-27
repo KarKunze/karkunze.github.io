@@ -46,7 +46,21 @@ footer {
   text-align: center;
 }
 
-.carousel-caption {
+/* .carousel-caption {
   background-color: #415F75;
   opacity: 0.8;
+} */
+
+.carousel-item img {
+  max-height: 400px;
+  max-width: 300px;
+  padding-bottom: 20px;
+}
+
+.carousel-control-prev {
+  margin-left: 15%;
+}
+
+.carousel-control-next {
+  margin-right: 15%;
 }
