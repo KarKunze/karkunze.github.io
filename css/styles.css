@@ -2,6 +2,19 @@ body {
   background-color: #415F75;
 }
 
+.jumbotron {
+  padding-top: 100px;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  background-image:url("../images/codepic.png");
+  height: 500px;
+  background-position: center right;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+
 h1,h2,h3,h4,h5,h6 {
   font-family: "Montserrat", sans-serif;
   color: #F2FAFF;
