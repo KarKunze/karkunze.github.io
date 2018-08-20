@@ -1,17 +1,16 @@
 body {
   background-color: #415F75;
 }
+html, body {
+    height:100%;
+}
 
-.jumbotron {
-  padding-top: 100px;
-  text-align: center;
-  font-family: "Montserrat", sans-serif;
-  background-image:url("../images/codepic.png");
-  height: 500px;
-  background-position: center right;
+.container-fluid {
+  background-image:url("../images/codegimp.png");
   background-size: cover;
   background-repeat: no-repeat;
-
+  background-position: center;
+  height: 100%;
 }
 
 
@@ -57,17 +56,18 @@ p {
 
 footer, footer + a {
   color: #91AFC7;
-
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 100;
 };
 
 .Projects {
   text-align: center;
 }
-
-/* .carousel-caption {
-  background-color: #415F75;
-  opacity: 0.8;
-} */
 
 .carousel-item img {
   max-height: 400px;
