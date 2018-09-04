@@ -5,14 +5,6 @@ html, body {
     height:100%;
 }
 
-.container-fluid {
-  background-image:url("../images/codegimp.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  height: 100%;
-}
-
 .jumbotron-fluid {
   background-color: #415F75;
   background-image:url("../images/codegimp.png");
