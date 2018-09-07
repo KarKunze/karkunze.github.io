@@ -60,6 +60,12 @@ p {
   }
 }
 
+@media (min-width: 601px) {
+  #main {
+    margin-left: 120px;
+  }
+}
+
 footer, footer + a {
   color: #91AFC7;
   background-color: #415F75;
@@ -93,3 +99,7 @@ footer, footer + a {
 .carousel-control-next {
   margin-right: 15%;
 }
+
+/* .carousel-indicators {
+  z-index: 1;
+} */
