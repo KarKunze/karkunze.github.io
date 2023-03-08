@@ -44,6 +44,10 @@ a:link, a:visited {
   z-index: 11;
 }
 
+.w3-content {
+    max-width: 1200px;
+}
+
 p {
   color: #FAF8FF;
 }
